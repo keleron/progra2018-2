@@ -1,0 +1,12 @@
+10 #hay 10 pizzerias cerca
+12 23 #y tienen estas cordenadas
+-22 12 
+32 43 
+51 -60 
+75 83 
+11 21
+42 52
+63 74
+-15 6
+-37 40
+jaime 30 20 #y la casa de jaime 
